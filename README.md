@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Jstorie95
+- I am interested in automation processes through Python, especially ArcPy through ArcGIS Pro
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love to highline!
